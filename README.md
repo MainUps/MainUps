@@ -1,7 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainUps&layout=donut-vertical)](https://github.com/MainUps/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MainUps)](https://github.com/MainUps/github-readme-stats)
-
-
 __________________________________<br/>
 | 솔직히 민트 초코 맛있습니다 |<br/>
 ￣￣￣￣∨￣￣￣￣￣￣￣￣￣<br/>
@@ -16,4 +12,4 @@ __________________________________<br/>
   　(　　)】 (　　)】<br/>
 　/　/┘　/　/┘<br/>
 ノ￣ヽ　ノ￣ヽ<br/>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MainUps&layout=compact)](https://github.com/MainUps/github-readme-stats)
