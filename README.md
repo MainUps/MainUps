@@ -18,6 +18,6 @@ __________________________________<br/>
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Kali Linux-557C94?style=flat&logo=kalilinux&logoColor=white"/> <img src="https://img.shields.io/badge/redhat-EE0000?style=flat&logo=redhat&logoColor=white"/>  
 
-<img src="https://img.shields.io/badge/Cisco Network-1BA0D7?style=flat&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Cisco Network-1BA0D7?style=flat&logo=cisco&logoColor=white"/> <img src="https://img.shields.io/badge/mariaDB-003545?style=flat&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white"/>  
 
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
